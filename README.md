@@ -1,3 +1,9 @@
+# Darkside OS
+
+- editions:
+  - Laptop - image is based on Bluefin stable-daily utilizing Gnome and hyprland
+  - Desktop - image is based on Aurora stable-daily utilizing plasma
+
 # image-template
 
 # Purpose
